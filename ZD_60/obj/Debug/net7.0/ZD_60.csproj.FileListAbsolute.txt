@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\bin\Debug\net7.0\ZD_60.exe
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\bin\Debug\net7.0\ZD_60.deps.json
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\bin\Debug\net7.0\ZD_60.runtimeconfig.json
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\bin\Debug\net7.0\ZD_60.dll
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\bin\Debug\net7.0\ZD_60.pdb
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.dll
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\refint\ZD_60.dll
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.pdb
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ZD_60.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\DZ_8\ZD_60\obj\Debug\net7.0\ref\ZD_60.dll
